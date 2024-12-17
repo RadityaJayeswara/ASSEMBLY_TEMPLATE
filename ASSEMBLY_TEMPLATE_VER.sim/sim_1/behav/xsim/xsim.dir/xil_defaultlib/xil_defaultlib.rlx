@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/ASSEMBLY_TEMPLATE_VER.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/ann.v,1734362066,verilog,,C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/axis_ann.v,,ann,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/ann_tb.v,1734362066,verilog,,,,ann_tb,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/axis_ann.v,1734362067,verilog,,C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/pe.v,,axis_ann,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/axis_ann_tb.v,1734362067,verilog,,,,axis_ann_tb,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/pe.v,1734362068,verilog,,C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/register.v,,pe,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/register.v,1734362068,verilog,,C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/sigmoid.v,,register,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/sigmoid.v,1734362069,verilog,,C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/systolic.v,,sigmoid,,,,,,,,
+C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/systolic.v,1734362070,verilog,,C:/Users/hp/Folder_Tugas_VIVADO/ASSEMBLY_TEMPLATE_VER/axis_ann_tb.v,,systolic,,,,,,,,
